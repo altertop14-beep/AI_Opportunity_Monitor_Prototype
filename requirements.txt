@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+lxml
+python-dotenv
+loguru
+sentence-transformers
+scikit-learn
+numpy
